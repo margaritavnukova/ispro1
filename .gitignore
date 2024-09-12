@@ -1,4 +1,5 @@
 #GIT IGNORE
 *.txt
+*.pptx
 #сохранять в гит все файлы тхт из папки игнор 
 !ignore but/*.txt
